@@ -39,7 +39,7 @@
     <a href="https://github.com/splwdev/horiseon-webapp"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://splwebdev.github.io/horiseon-webapp">View Demo</a>
+    <a href="https://splwdev.github.io/horiseon-webapp">View Demo</a>
     ·
     <a href="https://github.com/splwdev/horiseon-webapp/issues">Report Bug</a>
     ·
