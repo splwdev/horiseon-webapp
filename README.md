@@ -34,7 +34,7 @@
 <h3 align="center">Horiseon Web Application</h3>
 
   <p align="center">
-    Redevelopment Project
+    Refactoring Project
     <br />
     <a href="https://github.com/splwdev/horiseon-webapp"><strong>Explore the docs »</strong></a>
     <br />
@@ -73,11 +73,10 @@
 </details>
 
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The purpose of the project is to ensure that the Horiseon website meets web accessibility standards so that people can access website without any hindrance.
+This project was given to us as a learning exercise to consolidate our knowledge through the process of refactoring the existing code to ensure that the Horiseon website meets accessibility standards so that people can access the site without any hindrance.
 
 ## User Story
 
