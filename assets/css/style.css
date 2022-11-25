@@ -62,6 +62,12 @@ h1 {
     margin-left: 25px;
 }
 
+/* Navigation List Link Hover Colour */
+.navigation ul li a:hover {
+    color: #d9dcd6;
+    text-decoration: underline;
+}
+
 /* Figure Element */
 /* Figure Image Styling */
 .hero {
